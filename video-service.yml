@@ -25,5 +25,5 @@ management:
 info:
   app:
     name: "video-service"
-    description:  "This is video service"
+    description:  "This is video service - [Rabbit MQ - webhooks]"
     version: "1.0"
